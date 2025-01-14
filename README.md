@@ -10,39 +10,39 @@ Technical Requirements
 Installation
 Screenshots
 
-##Project Overview
+--Project Overview
 This repository contains two Excel-based business analysis dashboards designed for B&J Biscuit, a fictional business seeking detailed insights into various operational metrics. The dashboards provide a comprehensive view of key business data, helping decision-makers analyze revenue trends, customer behavior, geographic performance, and profitability.
 
 The primary goal is to offer an easy-to-use, interactive platform for visualizing essential business metrics, enabling informed decision-making and identifying growth opportunities. The dashboards focus on revenue distribution, customer demographics, geographic performance, and profitability analysis, as well as detailed sales performance monitoring.
 
-##Dashboards Description
+--Dashboards Description
 Dashboard 1: Business Insights
 This dashboard focuses on providing a holistic overview of the business, offering insights into revenue distribution, customer behavior, and profitability. The interactive visualizations are designed for quick exploration of data across various business dimensions.
 
-##Key Metrics:
-##Revenue Distribution:
+--Key Metrics:
+--Revenue Distribution:
 Breakdown by product price category (Low-priced ≥ $10, High-priced < $10).
 Revenue segmented by age group and gender.
 Revenue by payment method (e.g., cash, credit card, mobile payment).
 Profitability Analysis:
 Identifies the most profitable brand, location, customer, and salesperson.
 Shows the overall business profit margin.
-##Customer Insights:
+--Customer Insights:
 Highlights the Top 5 customers by their revenue contribution.
 Displays the total number of customers acquired over time.
 Geographic Revenue Distribution:
 Illustrates the revenue share across key geographic locations (e.g., regions, cities).
-##Sales Performance:
+--Sales Performance:
 Metrics such as quantity sold, total revenue, cost of goods sold (COGS), and total profit are visualized to monitor performance.
-##Interactive Elements:
+--Interactive Elements:
 Filters for exploring data by location, payment method, and age group, making it easy to tailor the dashboard to specific business needs.
 ##Goal:
 To provide a complete snapshot of business performance across various customer and geographic segments, enabling data-driven decision-making.
 
-##Dashboard 2: Revenue Performance and Change Analysis
+-- Dashboard 2: Revenue Performance and Change Analysis
 This dashboard provides a more granular view of revenue trends, focusing on quarter-over-quarter, month-over-month, and week-over-week performance changes. It is designed to help identify and respond to trends in sales and revenue.
 
-##Key Metrics:
+-- Key Metrics:
 Revenue Analysis:
 
 Displays total revenue by product, location, and customer segments in absolute values.
